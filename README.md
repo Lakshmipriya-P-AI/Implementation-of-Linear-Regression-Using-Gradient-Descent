@@ -29,7 +29,6 @@ To write a program to implement the linear regression using gradient descent.
 ## Program:
 
 ~~~
-/*
 Program to implement the linear regression using gradient descent.
 Developed by: Lakshmi priya
 RegisterNumber: 212221230053
@@ -67,7 +66,6 @@ plt.title("study hour vs scores")
 plt.plot(loss)
 plt.xlabel("iteration")
 plt.ylabel("loss") 
-*/
 ~~~
 
 ## Output:
